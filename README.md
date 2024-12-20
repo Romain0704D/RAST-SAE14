@@ -35,7 +35,7 @@ Le site a été conçu pour passer la validation W3C pour HTML et CSS et est con
 
 ## Hébergement
 
-Le site est hébergé sur GitHub Pages et peut être consulté via le lien suivant : [Lien vers le site](https://votre-utilisateur.github.io/votre-repository)
+Le site est hébergé sur GitHub Pages et peut être consulté via le lien suivant : [Lien vers le site](https://romain0704d.github.io/RAST-SAE14/)
 
 ## Absence de commits
 
